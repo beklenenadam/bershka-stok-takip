@@ -1,0 +1,25 @@
+{
+  "name": "bershka-stok-takip",
+  "version": "1.0.0",
+  "description": "bershka stok takip botu",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "afy",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord-webhook-node": "^1.1.8",
+    "open": "^8.4.0",
+    "process": "^0.11.10",
+    "request": "^2.88.2",
+    "xhr2": "^0.2.1"
+  }
+}
